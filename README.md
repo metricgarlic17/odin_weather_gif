@@ -104,4 +104,4 @@ This project demonstrates:
 ## 🧑‍💻 Author
 
 Metricgarlic
-Computing Science Student
+
